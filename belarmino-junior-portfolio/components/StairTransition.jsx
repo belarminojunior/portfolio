@@ -2,6 +2,7 @@
 
 import { AnimatePresence, delay, easeInOut } from "framer-motion";
 import { usePathname } from "next/navigation";
+import { motion } from "framer-motion";
 
 // Components
 import Stairs from "./Stairs";
